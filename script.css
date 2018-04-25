@@ -1,0 +1,57 @@
+#arena{
+	position:absolute;
+	width: 700px;
+	height: 490px;
+	background-color: black;
+	margin:auto;
+}
+
+#paddle{
+	position: relative;
+	width:30px;
+	height:100px;
+	background-color: green;
+	position: fixed;
+}
+
+#ball{
+	height: 30px;
+	width: 30px;
+	border-radius: 30px;
+	background-color: blue;
+	position: fixed;
+  	top: 50%;
+  	left: 50%;
+}
+
+#score{
+	position: relative;
+	border: 5px solid red;
+	width: 100px;
+	color:black;
+	background-color: yellow;
+	height: 40px;
+	top: 495px;
+}
+
+#level{
+	position: relative;
+	border: 5px solid red;
+	width: 100px;
+	color:black;
+	background-color: yellow;
+	height: 40px;
+	top: 445px;
+	left: 105px;
+}
+
+.butaun{
+	position: relative;
+	/*border: 5px solid red;*/
+	width: 100px;
+	color:black;
+	background-color: yellow;
+	height: 40px;
+	top: 395px;
+	left: 250px;
+}
