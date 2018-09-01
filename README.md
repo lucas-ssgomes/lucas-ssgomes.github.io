@@ -1,2 +1,2 @@
 # lucas-ssgomes.github.io
-Atividades da disciplina de Administração e Segurança de Redes utilizando o projeto da disciplina de Programação Web.
+Atividade da disciplina de **Administração e Segurança de Redes** utilizando um projeto de jogo básico desenvolvido em _JavaScript_.
